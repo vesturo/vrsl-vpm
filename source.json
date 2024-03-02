@@ -13,7 +13,10 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "AcChosen/VR-Stage-Lighting"
+        "AcChosen/VR-Stage-Lighting",
+        "AcChosen/VRSL-GPUReadBack",
+        "AcChosen/Mochies-Unity-Shaders-VRSLMod",
+        "AcChosen/VR-Stage-Lighting-GI-ShaderPack"
     ],
     "packages":[]
 }
